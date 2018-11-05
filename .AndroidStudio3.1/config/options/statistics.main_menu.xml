@@ -1,7 +1,7 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="Build -&gt; Clean Project" count="16" />
+      <entry path="Build -&gt; Clean Project" count="17" />
       <entry path="Build -&gt; Make Module(s)" count="1" />
       <entry path="Build -&gt; Make Project" count="8" />
       <entry path="Build -&gt; Rebuild Project" count="12" />
@@ -9,21 +9,21 @@
       <entry path="Edit -&gt; Undo" count="1" />
       <entry path="File -&gt; Close Project" count="12" />
       <entry path="File -&gt; New -&gt; Import Project..." count="1" />
-      <entry path="File -&gt; New -&gt; New Project..." count="22" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="35" />
+      <entry path="File -&gt; New -&gt; New Project..." count="23" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="39" />
       <entry path="File -&gt; Open..." count="11" />
       <entry path="File -&gt; Project Structure..." count="3" />
       <entry path="File -&gt; Settings..." count="37" />
       <entry path="Help -&gt; Check for Updates..." count="1" />
       <entry path="Run -&gt; Apply Changes" count="39" />
       <entry path="Run -&gt; Debug" count="11" />
-      <entry path="Run -&gt; Run" count="1013" />
+      <entry path="Run -&gt; Run" count="1030" />
       <entry path="Run -&gt; Run..." count="3" />
       <entry path="Tools -&gt; AVD Manager" count="2" />
       <entry path="Tools -&gt; Layout Inspector" count="1" />
       <entry path="VCS -&gt; Apply Patch..." count="1" />
       <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="1" />
-      <entry path="VCS -&gt; Commit" count="28" />
+      <entry path="VCS -&gt; Commit" count="31" />
       <entry path="VCS -&gt; Create Patch from Local Changes..." count="1" />
       <entry path="VCS -&gt; Enable Version Control Integration..." count="4" />
       <entry path="VCS -&gt; Git -&gt; Add" count="3" />
@@ -32,13 +32,13 @@
       <entry path="VCS -&gt; Git -&gt; Pull..." count="9" />
       <entry path="VCS -&gt; Git -&gt; Push..." count="11" />
       <entry path="VCS -&gt; Git -&gt; Rebase..." count="3" />
-      <entry path="VCS -&gt; Git -&gt; Remotes..." count="8" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="9" />
       <entry path="VCS -&gt; Git -&gt; Revert" count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="8" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Mercurial Repository" count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Import into CVS..." count="4" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Share Project (Subversion)..." count="1" />
-      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="69" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="71" />
       <entry path="VCS -&gt; Refresh File Status" count="1" />
       <entry path="VCS -&gt; Update Project" count="2" />
       <entry path="VCS -&gt; VCS Operations Popup..." count="3" />

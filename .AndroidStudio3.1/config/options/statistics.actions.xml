@@ -3,8 +3,8 @@
     <counts>
       <entry action="$Delete" count="19" />
       <entry action="$Paste" count="25" />
-      <entry action="$SelectAll" count="80" />
-      <entry action="$Undo" count="1067" />
+      <entry action="$SelectAll" count="88" />
+      <entry action="$Undo" count="1078" />
       <entry action="Access static via class reference" count="1" />
       <entry action="ActivatePreviewToolWindow" count="14" />
       <entry action="Add Annotation" count="1" />
@@ -31,13 +31,13 @@
       <entry action="ChangesView.Revert" count="1" />
       <entry action="CheckForUpdate" count="1" />
       <entry action="CheckinFiles" count="10" />
-      <entry action="CheckinProject" count="29" />
+      <entry action="CheckinProject" count="32" />
       <entry action="ChooseRunConfiguration" count="3" />
-      <entry action="CleanGradleProject" count="16" />
+      <entry action="CleanGradleProject" count="17" />
       <entry action="CloseProject" count="12" />
       <entry action="CodeCompletion" count="1" />
       <entry action="CopyPaths" count="1" />
-      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create Class from Usage" count="2" />
       <entry action="Create Constant From Usage" count="1" />
       <entry action="Create Local from Usage" count="1" />
       <entry action="Create constructor matching super" count="9" />
@@ -48,42 +48,42 @@
       <entry action="Debug" count="19" />
       <entry action="Delete Catch" count="1" />
       <entry action="Edit method contract" count="2" />
-      <entry action="EditorBackSpace" count="10770" />
-      <entry action="EditorChooseLookupItem" count="2621" />
-      <entry action="EditorCopy" count="935" />
+      <entry action="EditorBackSpace" count="11066" />
+      <entry action="EditorChooseLookupItem" count="2706" />
+      <entry action="EditorCopy" count="958" />
       <entry action="EditorCut" count="8" />
-      <entry action="EditorDelete" count="709" />
+      <entry action="EditorDelete" count="737" />
       <entry action="EditorDeleteToWordStart" count="3" />
-      <entry action="EditorDown" count="1744" />
+      <entry action="EditorDown" count="1791" />
       <entry action="EditorDownWithSelection" count="3" />
-      <entry action="EditorDuplicate" count="101" />
-      <entry action="EditorEnter" count="2350" />
+      <entry action="EditorDuplicate" count="104" />
+      <entry action="EditorEnter" count="2432" />
       <entry action="EditorEscape" count="31" />
       <entry action="EditorIndentSelection" count="19" />
-      <entry action="EditorLeft" count="674" />
+      <entry action="EditorLeft" count="683" />
       <entry action="EditorLeftWithSelection" count="2" />
       <entry action="EditorLineEnd" count="3" />
       <entry action="EditorLineStart" count="14" />
-      <entry action="EditorNextWord" count="271" />
-      <entry action="EditorNextWordWithSelection" count="451" />
+      <entry action="EditorNextWord" count="276" />
+      <entry action="EditorNextWordWithSelection" count="457" />
       <entry action="EditorPageDown" count="4" />
       <entry action="EditorPageUp" count="72" />
-      <entry action="EditorPaste" count="959" />
-      <entry action="EditorPreviousWord" count="382" />
-      <entry action="EditorPreviousWordWithSelection" count="171" />
-      <entry action="EditorRight" count="802" />
+      <entry action="EditorPaste" count="996" />
+      <entry action="EditorPreviousWord" count="384" />
+      <entry action="EditorPreviousWordWithSelection" count="176" />
+      <entry action="EditorRight" count="832" />
       <entry action="EditorRightWithSelection" count="2" />
       <entry action="EditorScrollDown" count="2" />
       <entry action="EditorScrollUp" count="2" />
       <entry action="EditorSplitLine" count="2" />
       <entry action="EditorStartNewLine" count="8" />
-      <entry action="EditorTab" count="354" />
+      <entry action="EditorTab" count="361" />
       <entry action="EditorToggleInsertState" count="38" />
-      <entry action="EditorUnindentSelection" count="18" />
-      <entry action="EditorUp" count="811" />
+      <entry action="EditorUnindentSelection" count="19" />
+      <entry action="EditorUp" count="845" />
       <entry action="EditorUpWithSelection" count="2" />
       <entry action="Extract string resource" count="1" />
-      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="FileChooser.NewFolder" count="2" />
       <entry action="FileChooser.Refresh" count="1" />
       <entry action="Find" count="14" />
       <entry action="FindNext" count="1" />
@@ -93,19 +93,19 @@
       <entry action="Fix return type" count="2" />
       <entry action="Git.Add" count="6" />
       <entry action="Git.Branches" count="3" />
-      <entry action="Git.Configure.Remotes" count="8" />
+      <entry action="Git.Configure.Remotes" count="9" />
       <entry action="Git.Init" count="8" />
       <entry action="Git.Pull" count="9" />
       <entry action="Git.Rebase" count="3" />
-      <entry action="Github.Share" count="69" />
+      <entry action="Github.Share" count="71" />
       <entry action="Go to super method" count="1" />
       <entry action="GotoClass" count="1" />
       <entry action="GotoDeclaration" count="3" />
       <entry action="GotoLine" count="1" />
       <entry action="Hg.Init" count="1" />
       <entry action="HideAllWindows" count="5" />
-      <entry action="Implement methods" count="24" />
-      <entry action="Import class" count="232" />
+      <entry action="Implement methods" count="25" />
+      <entry action="Import class" count="233" />
       <entry action="Import static constant  android.support.constraint.ConstraintSet.VERTICAL " count="1" />
       <entry action="Import static constant..." count="1" />
       <entry action="ImportProject" count="1" />
@@ -121,9 +121,9 @@
       <entry action="Move to package  com.example.tiget.alarmclockreupload " count="1" />
       <entry action="Move to package  com.example.tiget.musicplayer " count="1" />
       <entry action="NewAndroidVectorAsset" count="19" />
-      <entry action="NewClass" count="31" />
+      <entry action="NewClass" count="35" />
       <entry action="NewDir" count="7" />
-      <entry action="NewProject" count="22" />
+      <entry action="NewProject" count="23" />
       <entry action="NewScratchFile" count="1" />
       <entry action="OpenFile" count="11" />
       <entry action="OverrideMethods" count="20" />
@@ -134,16 +134,16 @@
       <entry action="Remove braces from  if  statement" count="3" />
       <entry action="Rename Wrong Reference" count="10" />
       <entry action="Rename element" count="3" />
-      <entry action="RenameElement" count="22" />
+      <entry action="RenameElement" count="25" />
       <entry action="Replace" count="2" />
       <entry action="Replace  =  with  == " count="1" />
       <entry action="RevealIn" count="38" />
-      <entry action="Run" count="997" />
+      <entry action="Run" count="1014" />
       <entry action="Safe delete" count="1" />
       <entry action="SaveAll" count="3" />
-      <entry action="SearchEverywhere" count="7" />
+      <entry action="SearchEverywhere" count="9" />
       <entry action="Set package name to  com.example.tiget.ontouchtest " count="1" />
-      <entry action="ShowIntentionActions" count="794" />
+      <entry action="ShowIntentionActions" count="802" />
       <entry action="ShowSettings" count="37" />
       <entry action="Start.Use.Vcs" count="4" />
       <entry action="StepOver" count="6" />
@@ -155,7 +155,7 @@
       <entry action="Surround with try/catch" count="5" />
       <entry action="Switcher" count="1" />
       <entry action="ToggleBookmark" count="1" />
-      <entry action="ToggleLineBreakpoint" count="45" />
+      <entry action="ToggleLineBreakpoint" count="46" />
       <entry action="Vcs.Push" count="11" />
       <entry action="Vcs.QuickListPopupAction" count="3" />
       <entry action="Vcs.RefreshStatuses" count="1" />

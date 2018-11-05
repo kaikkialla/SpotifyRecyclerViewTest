@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/Desktop/SpotifyRecyclerViewTest" />
         <option value="C:/Java Projects/AlarmClockReupload" />
+        <option value="C:/Java Projects/DatabaseTest" />
         <option value="C:/Java Projects/OnTouchTest" />
         <option value="C:/Java Projects" />
         <option value="C:/Java Projects/RecyclerViewWithSections" />
@@ -61,8 +62,8 @@
               <option name="build" value="AI-173.4819257" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541265954816" />
-              <option name="buildTimestamp" value="1528133455866" />
+              <option name="projectOpenTimestamp" value="1541428289138" />
+              <option name="buildTimestamp" value="1528133409062" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -85,6 +86,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1535122968354" />
               <option name="buildTimestamp" value="1528133413687" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/DatabaseTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541343069818" />
+              <option name="buildTimestamp" value="1528133447775" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -347,8 +359,8 @@
               <option name="build" value="AI-173.4819257" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1541268780300" />
-              <option name="buildTimestamp" value="1528133404624" />
+              <option name="projectOpenTimestamp" value="1541430813888" />
+              <option name="buildTimestamp" value="1528133409062" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -409,6 +421,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/" />
+    <option name="lastProjectLocation" value="C:/Java Projects" />
   </component>
 </application>

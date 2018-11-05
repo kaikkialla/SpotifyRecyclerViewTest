@@ -66,10 +66,10 @@
     <size key="ProcessPopupWindow.0.0.1440.900" width="400" height="116" />
     <size key="Vcs.Push.Dialog.0.0.1440.900" width="905" height="539" />
     <size key="CommitChangelistDialog2.0.0.1440.900" width="788" height="807" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="239" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="239" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="239" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="239" />
     <size key="javadoc.popup.0.0.1920.1080" width="372" height="156" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="344" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="344" />

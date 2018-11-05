@@ -12,7 +12,7 @@
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="18" />
       <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="4" />
       <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTree$ToggleShowDirectoriesAction@ChangesBrowser" count="2" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="46" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="48" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="4" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="2" />
     </counts>
