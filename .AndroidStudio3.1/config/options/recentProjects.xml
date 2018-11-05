@@ -1,0 +1,414 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/SpotifyRecyclerViewTest" />
+        <option value="C:/Java Projects/AlarmClockReupload" />
+        <option value="C:/Java Projects/OnTouchTest" />
+        <option value="C:/Java Projects" />
+        <option value="C:/Java Projects/RecyclerViewWithSections" />
+        <option value="$USER_HOME$/Desktop/RecyclerStickyHeaders-master" />
+        <option value="C:/Java Projects/Musicplayer" />
+        <option value="C:/Java Projects/clock" />
+        <option value="C:/Java Projects/testDELETEIT" />
+        <option value="C:/Java Projects/Filters" />
+        <option value="C:/Java Projects/a.y17_2.promo" />
+        <option value="$USER_HOME$/Desktop/a.y17_2.promo_main" />
+        <option value="$USER_HOME$/Desktop/a.y17_2.promo" />
+        <option value="$USER_HOME$/Desktop/InstagramStories" />
+        <option value="$USER_HOME$/Desktop/DBananaHomework" />
+        <option value="C:/Java Projects/GPS" />
+        <option value="C:/Java Projects/Camera" />
+        <option value="C:/Java Projects/TestField2" />
+        <option value="$USER_HOME$/Desktop/MusicPlayer" />
+        <option value="C:/Java Projects/Animations" />
+        <option value="C:/Java Projects/MusicTest" />
+        <option value="C:/Java Projects/MyApplication5665" />
+        <option value="C:/Java Projects/MyApplication" />
+        <option value="C:/Java Projects/Slidr" />
+        <option value="C:/Java Projects/Slide" />
+        <option value="C:/Java Projects/MyApplication2" />
+        <option value="C:/Java Projects/TestField" />
+        <option value="$USER_HOME$/Downloads/How-to-Hide-Show-Toolbar-on-Scroll-in-Android-master (1)/How-to-Hide-Show-Toolbar-on-Scroll-in-Android-master" />
+        <option value="$USER_HOME$/Desktop/memeGenerator/memeGenerator" />
+        <option value="$USER_HOME$/AndroidStudioProjects/TestField" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/SpotifyRecyclerViewTest" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/SpotifyRecyclerViewTest" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/Java Projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541259234662" />
+              <option name="buildTimestamp" value="1528133455866" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/AlarmClockReupload">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541265954816" />
+              <option name="buildTimestamp" value="1528133455866" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Animations">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532983596049" />
+              <option name="buildTimestamp" value="1528133444487" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Camera">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535122968354" />
+              <option name="buildTimestamp" value="1528133413687" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Filters">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1540237794228" />
+              <option name="buildTimestamp" value="1528133448596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/GPS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537729955075" />
+              <option name="buildTimestamp" value="1528133414491" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/MusicPlayer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541004619342" />
+              <option name="buildTimestamp" value="1528133445160" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/MusicTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530748533007" />
+              <option name="buildTimestamp" value="1528133408192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Musicplayer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541068370995" />
+              <option name="buildTimestamp" value="1528133415457" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530746385609" />
+              <option name="buildTimestamp" value="1528133424529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530746283577" />
+              <option name="buildTimestamp" value="1528133424529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/MyApplication5665">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530747258302" />
+              <option name="buildTimestamp" value="1528133424529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/OnTouchTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541265359170" />
+              <option name="buildTimestamp" value="1528133455866" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/RecyclerViewWithSections">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541164104699" />
+              <option name="buildTimestamp" value="1528133405828" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Slide">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530746309688" />
+              <option name="buildTimestamp" value="1528133424529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/Slidr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530746331953" />
+              <option name="buildTimestamp" value="1528133424529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/TestField">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530721142523" />
+              <option name="buildTimestamp" value="1528133400469" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/TestField2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533496918324" />
+              <option name="buildTimestamp" value="1528133442603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/a.y17_2.promo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539351533413" />
+              <option name="buildTimestamp" value="1528133429565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/clock">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1540910209009" />
+              <option name="buildTimestamp" value="1528133400383" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/Java Projects/testDELETEIT">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1540569554175" />
+              <option name="buildTimestamp" value="1528133424062" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529148900557" />
+              <option name="buildTimestamp" value="1528133429169" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/TestField">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529443659739" />
+              <option name="buildTimestamp" value="1528133418861" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/DBananaHomework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537903948568" />
+              <option name="buildTimestamp" value="1528133412432" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/InstagramStories">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538307164579" />
+              <option name="buildTimestamp" value="1528133414803" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/MusicPlayer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532983717447" />
+              <option name="buildTimestamp" value="1528133444487" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/RecyclerStickyHeaders-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541163470629" />
+              <option name="buildTimestamp" value="1528133423392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SpotifyRecyclerViewTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541268780300" />
+              <option name="buildTimestamp" value="1528133404624" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/TestField">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529766686115" />
+              <option name="buildTimestamp" value="1528133428175" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/a.y17_2.promo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538307625513" />
+              <option name="buildTimestamp" value="1528133414803" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/a.y17_2.promo_main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538308704569" />
+              <option name="buildTimestamp" value="1528133414803" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/memeGenerator/memeGenerator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529761264320" />
+              <option name="buildTimestamp" value="1528133457025" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/How-to-Hide-Show-Toolbar-on-Scroll-in-Android-master (1)/How-to-Hide-Show-Toolbar-on-Scroll-in-Android-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529764647285" />
+              <option name="buildTimestamp" value="1528133428175" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="C:/" />
+  </component>
+</application>
