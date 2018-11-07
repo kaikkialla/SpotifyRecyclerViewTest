@@ -39,7 +39,7 @@
     <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="268" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="268" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="229" />
-    <location key="CommitChangelistDialog2.0.0.1920.1080" x="352" y="121" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="68" y="113" />
     <location key="SettingsEditor.0.0.1920.1080" x="439" y="158" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="738" y="396" />
     <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="250" />
@@ -55,6 +55,7 @@
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="260" />
     <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="776" y="291" />
     <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1920.1080" x="832" y="252" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="0" y="81" />
     <size key="GridCell.Tab.0.left.0.0.1440.900" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1440.900" width="0" height="0" />
     <size key="GridCell.Tab.0.right.0.0.1440.900" width="0" height="0" />

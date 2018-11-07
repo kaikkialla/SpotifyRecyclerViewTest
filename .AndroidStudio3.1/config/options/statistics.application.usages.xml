@@ -1,7 +1,7 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android Profiler].hidden" count="96" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="97" />
       <entry feature="StripeButton[Android Profiler].shown" count="66" />
       <entry feature="StripeButton[Version Control].hidden" count="10" />
       <entry feature="StripeButton[Version Control].shown" count="32" />
@@ -15,12 +15,12 @@
       <entry feature="ide.settings.GitHub" count="9" />
       <entry feature="ide.settings.Project Structure" count="7" />
       <entry feature="ide.settings.Version Control" count="10" />
-      <entry feature="ideaapp.started" count="73" />
+      <entry feature="ideaapp.started" count="74" />
       <entry feature="project.view.pane.AndroidView" count="4" />
       <entry feature="project.view.pane.PackagesPane" count="1" />
       <entry feature="project.view.pane.ProjectPane" count="7" />
       <entry feature="project.view.pane.Scratches" count="1" />
-      <entry feature="terminal.win" count="44" />
+      <entry feature="terminal.win" count="45" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="8" />
     </counts>
