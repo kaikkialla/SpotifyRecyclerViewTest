@@ -6,7 +6,7 @@
     <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.quickFix" count="433" last-shown="0" last-used="1541341842664" shown-count="0" />
+    <feature id="codeassists.quickFix" count="446" last-shown="0" last-used="1541614187534" shown-count="0" />
     <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -14,23 +14,23 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="1" last-shown="0" last-used="1537730382705" shown-count="0" />
-    <feature id="codeassists.overrideimplement" count="45" last-shown="0" last-used="1541341842664" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="46" last-shown="0" last-used="1541521627234" shown-count="0" />
     <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="1540496209365" last-used="0" shown-count="14" />
-    <feature id="editing.completion.basic" count="2863" last-shown="0" last-used="1541343038472" shown-count="0" />
+    <feature id="editing.completion.basic" count="2998" last-shown="0" last-used="1541617967560" shown-count="0" />
     <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="43" last-shown="0" last-used="1541165668539" shown-count="0" />
+    <feature id="editing.select.word" count="45" last-shown="0" last-used="1541615193525" shown-count="0" />
     <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="3" last-shown="0" last-used="1541259999210" shown-count="0" />
     <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.smarttype.general" count="0" last-shown="1541343037414" last-used="0" shown-count="1665" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1541617965531" last-used="0" shown-count="1757" />
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,17 +42,17 @@
     <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="31079" />
-      <option name="invocations" value="2366" />
+      <option name="sparedCharacters" value="32250" />
+      <option name="invocations" value="2460" />
       <option name="startDate" value="1529096400000" />
-      <option name="dayCount" value="39" />
-      <option name="lastDate" value="1541278800000" />
+      <option name="dayCount" value="41" />
+      <option name="lastDate" value="1541538000000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="433" />
+      <option name="invocations" value="446" />
       <option name="startDate" value="1529096400000" />
-      <option name="dayCount" value="33" />
-      <option name="lastDate" value="1541278800000" />
+      <option name="dayCount" value="35" />
+      <option name="lastDate" value="1541538000000" />
     </fixesStatsTag>
   </component>
 </application>

@@ -1,12 +1,12 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="StripeButton[Android Profiler].hidden" count="93" />
-      <entry feature="StripeButton[Android Profiler].shown" count="63" />
+      <entry feature="StripeButton[Android Profiler].hidden" count="96" />
+      <entry feature="StripeButton[Android Profiler].shown" count="66" />
       <entry feature="StripeButton[Version Control].hidden" count="10" />
-      <entry feature="StripeButton[Version Control].shown" count="31" />
+      <entry feature="StripeButton[Version Control].shown" count="32" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="18" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="1045" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="1129" />
       <entry feature="git.branch.checkout.local" count="1" />
       <entry feature="git.branch.create.new" count="3" />
       <entry feature="ide.settings.Appearance" count="1" />
@@ -15,12 +15,12 @@
       <entry feature="ide.settings.GitHub" count="9" />
       <entry feature="ide.settings.Project Structure" count="7" />
       <entry feature="ide.settings.Version Control" count="10" />
-      <entry feature="ideaapp.started" count="69" />
+      <entry feature="ideaapp.started" count="73" />
       <entry feature="project.view.pane.AndroidView" count="4" />
       <entry feature="project.view.pane.PackagesPane" count="1" />
       <entry feature="project.view.pane.ProjectPane" count="7" />
       <entry feature="project.view.pane.Scratches" count="1" />
-      <entry feature="terminal.win" count="38" />
+      <entry feature="terminal.win" count="44" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="8" />
     </counts>
