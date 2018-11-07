@@ -31,7 +31,7 @@
       <entry action="ChangesView.Revert" count="1" />
       <entry action="CheckForUpdate" count="1" />
       <entry action="CheckinFiles" count="10" />
-      <entry action="CheckinProject" count="36" />
+      <entry action="CheckinProject" count="37" />
       <entry action="ChooseRunConfiguration" count="3" />
       <entry action="CleanGradleProject" count="18" />
       <entry action="CloseProject" count="12" />
@@ -49,7 +49,7 @@
       <entry action="Delete Catch" count="1" />
       <entry action="Delete statement extracting side effects" count="1" />
       <entry action="Edit method contract" count="2" />
-      <entry action="EditorBackSpace" count="11929" />
+      <entry action="EditorBackSpace" count="11932" />
       <entry action="EditorChooseLookupItem" count="2847" />
       <entry action="EditorCopy" count="987" />
       <entry action="EditorCut" count="8" />
